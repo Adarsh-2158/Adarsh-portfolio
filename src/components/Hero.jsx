@@ -43,7 +43,7 @@ const Hero = () => {
             </motion.p>
             <motion.a
               variants={childVariants}
-              href="/public/resume.pdf"
+              href="/resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               download
